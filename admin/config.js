@@ -8,7 +8,7 @@ const CMS_CONFIG = {
     owner: 'piarbookru-hub',
     
     // Название репозитория (буква в букву как в URL)
-    repo: 'Тест-2',
+    repo: 'GENERAL',
     
     // Ветка (обычно main)
     branch: 'main',
